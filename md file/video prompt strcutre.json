@@ -1,0 +1,21 @@
+{
+  "part": "<Insert_Part_Number>",
+  "aspect_ratio": "<Insert_Aspect_Ratio_e_g_16:9_9:16_1:1>",
+  "visual_style": "<Insert_Overall_Look_and_Medium_e_g_Cinematic_magical_realism_shot_on_35mm_film>",
+  "characters": {
+    "@character_tag": "<Insert_Character_Identity_Wardrobe_and_Physicality_e_g_A_middle-aged_man_wearing_casual_clothes>"
+  },
+  "duration": "<Insert_Duration_e_g_5_seconds_10_seconds>",
+  "scene_objective": "<Insert_Narrative_Goal_of_the_Clip_e_g_Character_finishes_dialogue_and_magically_disappears>",
+  "visual_description": "<Insert_Detailed_Visual_Context_Including_Static_or_Changing_Elements_e_g_Camera_framing_remains_exact_same_on_character_as_a_warm_light_radiates_from_his_chest>",
+  "character_action": "<Insert_Single_Continuous_Action_Beat_e_g_@character_tag_smiles_peacefully_then_body_dissolves_into_golden_dust_particles>",
+  "dialogue": "<Insert_Dialogue_If_Applicable_e_g_@character_tag:'Dialogue text here.'>",
+  "emotion": "<Insert_Mood_and_Tone_e_g_Tender_highly_emotional_peaceful>",
+  "camera": "<Insert_Framing_Angle_Lens_and_Exactly_One_Movement_e_g_Medium_close-up_eye-level_completely_locked-off_static_camera>",
+  "lighting": "<Insert_Lighting_Setup_and_Time_of_Day_e_g_Warm_indoor_lighting_transitioning_to_bright_golden_luminescence>",
+  "b_roll": "<Insert_Secondary_Visual_Elements_or_Insert_Shots_e_g_Golden_dust_particles_floating_upwards_empty_sofa>",
+  "sound_effects": "<Insert_Diegetic_Sound_Cues_e_g_Soft_magical_whoosh_of_dispersing_light>",
+  "background_music": "<Insert_Non-Diegetic_Music_Cues_e_g_Emotional_cinematic_strings_fading_out>",
+  "transition": "<Insert_Editorial_Transition_e_g_Slow_fade_to_black>",
+  "negative_prompt": "<Insert_Elements_to_Avoid_e_g_face_morphing_changing_clothes_flickering_camera_movement_bad_anatomy>"
+}
